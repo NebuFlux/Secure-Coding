@@ -15,7 +15,7 @@ This repository is the complete portfolio for CS-405 Secure Coding at SNHU, demo
   - [Encryption.cpp](#-encryptioncpp)
   - [ExceptionHandling.cpp](#️-exceptionhandlingcpp)
   - [GoogleTests.cpp](#-googletestscpp)
-  - [NumericOverflow.cpp](https://github.com/NebuFlux/Secure-Coding/edit/main/README.md#-numericoverflow_shoemaker_joshuacpp)
+  - [NumericOverflow.cpp](#-numericoverflow_shoemaker_joshuacpp)
   - [SQLInjection.cpp](#-sqlinjectioncpp)
 - [Course Documents](#-course-documents)
   - [Security Policy](#-cs405-shoemaker-joshua-securitypolicypdf--green-pace-secure-development-policy)
